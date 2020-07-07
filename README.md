@@ -1,12 +1,14 @@
 # Korg Mono/Poly 
 
-An interesting 4 osc/4 voice paraphonic synth from the early 80s. A quirky beast.
+
 
 
 -   **Formats:** Kontakt
-  **Info:** [wikipedia.org](https://en.wikipedia.org/wiki/Korg_Mono/Poly/)
+ -  **Info:** [wikipedia.org](https://en.wikipedia.org/wiki/Korg_Mono/Poly/)
+ - **Approx Size:**  6.5GB  
 
--   **Audio:** https://www.dropbox.com/sh/itau8h5hfd4wlva/AAA2TKoRMUF_nTu6B8PZzT0ta?dl=0
+
+**Audio:** https://www.dropbox.com/sh/itau8h5hfd4wlva/AAA2TKoRMUF_nTu6B8PZzT0ta?dl=0
 
 # Loading
 
