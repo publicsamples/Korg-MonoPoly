@@ -10,13 +10,12 @@ An interesting 4 osc/4 voice paraphonic synth from the early 80s. A quirky beast
 
 # Loading
 
-**Kontakt**
+****Kontakt****
 
-1. Move the Audio and NKI folders to where ever you like
-2. Open Kontakt
-3. From the file menu select "Batch resave". Proceed with yes
-4. Open the folder with the .nki files 
-5. Once the batch resave process has completed open a sample using the file browser
+1.  Open Kontakt
+2. From the file menu select "Batch resave". Proceed with yes
+3. Open the folder with the .nki files
+4. Once the batch resave process has completed open a sample using the file browser
 
 # Support this project
 
