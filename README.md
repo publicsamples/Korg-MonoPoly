@@ -6,9 +6,12 @@
 -   **Formats:** Kontakt
  -  **Info:** [wikipedia.org](https://en.wikipedia.org/wiki/Korg_Mono/Poly/)
  - **Approx Size:**  6.5GB  
+ - [Web Audio Demo](https://www.modularsamples.com/Demos/demos/monopoly.html)
 
 
-**Audio:** https://www.dropbox.com/sh/itau8h5hfd4wlva/AAA2TKoRMUF_nTu6B8PZzT0ta?dl=0
+**This collection requires you to download the audio seperately**
+
+[Download Audio from Dropbox](https://www.dropbox.com/sh/itau8h5hfd4wlva/AAA2TKoRMUF_nTu6B8PZzT0ta?dl=0)
 
 # Loading
 
@@ -21,25 +24,10 @@
 
 # 
 
-# Help out
-  
-Hey you! Yes, you with the sampler! This project really needs your help! 
+# Support this project
 
- - New formats. Currently only Kontaktis supported. 
- 
- If you'd like to get involved check out the issues page or get in [touch via email](mailto:modularsamples@gmail.com) to discuss access to the project.
+[Report issues](/issues) - [Buy a Sample Library](https://gumroad.com/modularsamples) - [Become a Patreon](https://www.patreon.com/modularsamples) - [Add new patches & Formats](/pulls)
 
-#
-
-
-# Donate
-
-[![patreon](https://www.modularsamples.com/sites/default/files/inline-images/wordmark_on_navy_1.jpg)](https://www.patreon.com/modularsamples)  
-
-# Disks
-
-[![ua](https://www.modularsamples.com/sites/default/files/inline-images/usb-stick-vector-clipart_0.png)](https://www.etsy.com/uk/listing/757499822/modularsamplescom-library-ssd)
-
-[The entire collection on a portable drive.](https://www.etsy.com/uk/listing/757499822/modularsamplescom-library-ssd)
-
-[Prices start at £40](https://www.etsy.com/uk/listing/757499822/modularsamplescom-library-ssd)
+[
+![Sample library disks](https://github.com/publicsamples/Public-Samples/raw/master/images/drives2.jpg?raw=true)
+](https://gum.co/modularsamples-drives)
