@@ -3,7 +3,7 @@
 
 
 
--   **Formats:** Kontakt
+-   **Formats:** Kontakt, Logic Sampler
  -  **Info:** [wikipedia.org](https://en.wikipedia.org/wiki/Korg_Mono/Poly/)
  - **Approx Size:**  6.5GB  
  - [Web Audio Demo](https://www.modularsamples.com/Demos/demos/monopoly.html)
