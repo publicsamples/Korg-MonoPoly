@@ -8,10 +8,8 @@
  - **Approx Size:**  6.5GB  
  - [Web Audio Demo](https://www.modularsamples.com/Demos/demos/monopoly.html)
 
+**[Download Audio](https://github.com/publicsamples/Korg-MonoPoly/releases/tag/1.0)**
 
-**This collection requires you to download the audio seperately**
-
-[Download Audio from Dropbox](https://www.dropbox.com/sh/itau8h5hfd4wlva/AAA2TKoRMUF_nTu6B8PZzT0ta?dl=0)
 
 # Loading
 
