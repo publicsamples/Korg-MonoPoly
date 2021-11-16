@@ -1,7 +1,5 @@
+
 # Korg Mono/Poly 
-
-
-
 
 -   **Formats:** Kontakt, Logic Sampler
  -  **Info:** [wikipedia.org](https://en.wikipedia.org/wiki/Korg_Mono/Poly/)
@@ -11,21 +9,13 @@
 **[Download Audio](https://github.com/publicsamples/Korg-MonoPoly/releases/tag/1.0)**
 
 
-# Loading
+## **Get help**
 
-****Kontakt****
+[Report an issue](https://github.com/publicsamples/home/issues) - [Ask a question](https://github.com/publicsamples/home/discussions) - [Guides](https://github.com/publicsamples/home/wiki)
 
-1.  Open Kontakt
-2. From the file menu select "Batch resave". Proceed with yes
-3. Open the folder with the .nki files
-4. Once the batch resave process has completed open a sample using the file browser
-
-# 
-
-# Support this project
-
-[Report issues](/issues) - [Buy a Sample Library](https://gumroad.com/modularsamples) - [Become a Patreon](https://www.patreon.com/modularsamples) - [Add new patches & Formats](/pulls)
+## **Support this project**
 
 [
-![Sample library disks](https://github.com/publicsamples/Public-Samples/raw/master/images/drives2.jpg?raw=true)
-](https://gum.co/modularsamples-drives)
+![dx15](https://www.modularsamples.com/img/msdx.png)
+](https://www.modularsamples.com/dx-15-for-kontakt/)
+
