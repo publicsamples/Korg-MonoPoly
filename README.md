@@ -16,6 +16,6 @@
 ## **Support this project**
 
 [
-![dx15](https://www.modularsamples.com/img/msdx.png)
+![dx15](https://www.modularsamples.com/img/dx30full.png)
 ](https://www.modularsamples.com/dx-15-for-kontakt/)
 
